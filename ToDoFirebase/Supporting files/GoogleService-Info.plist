@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>51299926405-6pheg365e19e5k15tumvp1jph55gam0e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.51299926405-6pheg365e19e5k15tumvp1jph55gam0e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA7yyF59hqd0RznJCf55z_nLhXj0zTlOPU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>51299926405</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Oleg.ToDoFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>todofirebase-19d8a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todofirebase-19d8a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:51299926405:ios:92abf74e0d202b557384ec</string>
+	<key>DATABASE_URL</key>
+	<string>https://todofirebase-19d8a-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
